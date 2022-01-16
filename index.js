@@ -50,7 +50,7 @@ async function display(val) {
         div.innerHTML = ""
 
         div.innerHTML += `  <div class="col-12">
- <div class="text-center text-white">
+ <div class="text-center text-white align">
                     <h5 class="card-title  mb-3" id="anime"></h5>
                     <p class="card-text mb-3" id="quote"></p>
                     <p class="card-text mb-2" id="character"></p>
